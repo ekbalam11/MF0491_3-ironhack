@@ -16,10 +16,10 @@ Cada apartado conseguido otorga un punto de la nota final. Los 6 primeros aparta
 
 ### Rojo
 - color de fondo: #ffdddd;
-- color del borde: #f44336
+- color del borde: #f44336;
 
 ### Verde
-- color de fondo: #ddffdd
+- color de fondo: #ddffdd;
 - color del borde: #04AA6D;
 
 ### Azul
