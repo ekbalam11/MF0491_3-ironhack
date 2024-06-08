@@ -7,7 +7,7 @@
  */
 
 function loveDifference(age1, age2) {
-
+    return difference = Math.abs(age1 - age2);
 }
 
 // Prueba 1: Diferencia básica
